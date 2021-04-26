@@ -5,7 +5,7 @@ module.exports = {
       name: `Michael`,
     },
     description: `Personal portfolio and blog for Crafty Developers`,
-    siteUrl: `https://craftydevs.net`,
+    siteUrl: `https://icuemike.github.io/myblog.github.io/`,
     social: {
       github: `icueMike`,
     },
