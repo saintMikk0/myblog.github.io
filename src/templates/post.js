@@ -49,7 +49,7 @@ const BlogPostTemplate = ({ data, pageContext, location }) => {
               <>
                 {' / '}
                 <a
-                  href={`https://www.github.com/icuemike/myblog/tree/master/content/blog/${location.pathname}index.md`}
+                  href={`https://www.github.com/icuemike/myblog.github.io/tree/master/content/blog/${location.pathname}index.md`}
                 >
                   Edit on GitHub
                 </a>

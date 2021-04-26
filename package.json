@@ -5,7 +5,7 @@
   "version": "0.1.0",
   "author": "icuemike <icuemike@outlook.com>",
   "bugs": {
-    "url": "https://github.com/icuemike/myblog/issues"
+    "url": "https://github.com/icuemike/myblog.github.io/issues"
   },
   "dependencies": {
     "animejs": "^3.2.0",
@@ -62,7 +62,7 @@
     "precss": "^4.0.0",
     "prettier": "^1.19.1"
   },
-  "homepage": "https://github.com/icuemike/myblog",
+  "homepage": "https://github.com/myblog.github.io/myblog",
   "keywords": [
     "gatsby",
     "portfolio"
@@ -71,7 +71,7 @@
   "main": "n/a",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/icuemike/myblog.git"
+    "url": "git+https://github.com/myblog.github.io/myblog.git"
   },
   "scripts": {
     "build": "gatsby build",
