@@ -1,0 +1,27 @@
+.made-with {
+  padding: 100px 0;
+
+  h3,
+  li {
+    visibility: hidden;
+  }
+
+  &__list-item {
+    font-size: 1.2em;
+    padding: 20px 0;
+    display: flex;
+    flex-direction: column;
+    border-bottom: 1px solid var(--hiq-color-gray-6);
+
+    span {
+      margin-top: 10px;
+      font-size: 0.8em;
+      color: var(--hiq-color-gray-3);
+      font-weight: 300;
+    }
+  }
+
+  &__inspiration {
+    padding-top: 30px;
+  }
+}
